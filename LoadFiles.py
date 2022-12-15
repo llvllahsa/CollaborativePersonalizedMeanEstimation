@@ -23,6 +23,14 @@ def write_setting():
     settingwriter.close()
 # ------------------------------------------------------------------------
 
+# checking if the directory Results
+# exist or not.
+if not os.path.exists("Results/"):
+
+    # if the demo_folder directory is not present
+    # then create it.
+    os.makedirs("Results/")
+
 
 # -------------------------- Loading data -------------------------------------
 npzData = np.load("npFiles.npz")
