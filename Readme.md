@@ -1,7 +1,7 @@
 # Collaborative Algorithms for Online Personalized Mean Estimation
 
-This project is the implementation of the paper "Collaborative Algorithms for Online Personalized Mean Estimation":
-https://arxiv.org/abs/2208.11530
+This project is the implementation of the paper "Collaborative Algorithms for Online Personalized Mean Estimation" Accepted in TMLR:
+https://arxiv.org/abs/2208.11530 and https://openreview.net/forum?id=VipljNfZSZ
 
 Please email llvllahsa @ gmail for questions and suggestions revolving around this code repository.
 
